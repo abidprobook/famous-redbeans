@@ -1,4 +1,4 @@
 requests
 pycryptodome
-protobuf
+protobuf<=3.20.3
 xmltodict
